@@ -19,7 +19,7 @@ const App = () => {
           <ExpenseTotal />
         </div>
       </div>
-      <div className="mt-3">Expenses</div>
+      <h2 className="mt-3">Expenses</h2>
     </div>
   )
 }
