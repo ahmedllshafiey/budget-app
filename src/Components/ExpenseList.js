@@ -1,4 +1,5 @@
 import React from "react";
+import ExpenseItem from "./ExpenseItem";
 
 const ExpenseList = () => {
     const expenses = [
@@ -19,3 +20,5 @@ const ExpenseList = () => {
         </ul>
     )
 }
+
+export default ExpenseList
